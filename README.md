@@ -1,4 +1,4 @@
-basemeshes
-==========
+Blender Base Meshes
+===================
 
-Base meshes for Blender
+**Male_Head** 430 Faces, optimized for multires sculpting.
